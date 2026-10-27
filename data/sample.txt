@@ -1,0 +1,10 @@
+
+Enterprise Generative AI Platform
+
+Retrieval-Augmented Generation (RAG) combines document retrieval
+with large language models to generate grounded answers.
+
+Hugging Face embeddings convert text into vectors.
+FAISS enables similarity search across document embeddings.
+LangGraph manages AI agent workflows.
+FastAPI provides REST endpoints for users to ask questions.

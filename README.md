@@ -107,3 +107,12 @@ python -m app.document_loader
 ## Notes
 
 This is a personal portfolio project under active development. The architecture describes the intended full implementation. No enterprise production deployment is claimed.
+
+## Execution Screenshots
+
+### Document Ingestion and Text Chunking
+
+The document loader reads local documents, extracts text,
+and prepares chunks for downstream semantic retrieval.
+
+![Document Loader Output](docs/screenshots/document-loader-output.png)
